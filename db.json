@@ -1,0 +1,68 @@
+{
+    "people": [
+        {
+            "id": 0,
+            "name": "John"
+        },
+        {
+            "id": 1,
+            "name": "Peter"
+        },
+        {
+            "id": 2,
+            "name": "Mary"
+        }
+    ],
+    "credit-card-applicant": [
+        {
+            "id": 0,
+            "Citizenship": "Singaporean",
+            "Full Name": "John Tan",
+            "NRIC/FIN": "S9018111B",
+            "Birth Date": "11-11-1990",
+            "Postal Code": "5304A2",
+            "Address 1": "APT BLK 44 HOUGANG AVENUE 8 #19-1577",
+            "Address 2": "",
+            "Company Name": "Capital Investments",
+            "Job Title": "C&ORC Legal and Compliance Officer",
+            "Employment Status": "Employed",
+            "Years of Employement": "7",
+            "Monthly Income (SGD)": "8000"
+        }
+    ],
+    "property": [
+        {
+            "id": 0,
+            "price": "S$32,000,000",
+            "description": "District 10\nRare elevated 2.5 level Bungalow House right at the fringe of Orchard road\nSited at Chatsworth Park Good Class Bungalow Area\nCar porch level: Can park at least 6 cars, BBQ area, Gym room with toilet, Garage area, Maid room with toilet",
+            "address": "75 Grange Road",
+            "map": "https://www.google.com/maps/search/?api=1&query=75%20Grange%20Road%20Singapore",
+            "image": ""
+        },
+        {
+            "id": 1,
+            "price": "S$14,600,000",
+            "description": "- Prestigious location. Walking distance to Sixth Avenue MRT. Near many reputable schools.\n- Luxurious space. Wide frontage in a quiet neighbourhood.\n- With internal lift and outdoor swimming pool\n- Bright, airy and spacious with high ceilings\n- Spacious 5 bedrooms with en-suite bathrooms + maids room.\n- Master bedroom, junior master bedroom and 2 common room (all with en-suite bathrooms).\n- basement: large entertainment area (TV Room) + home shelter, storeroom and powder room.",
+            "address": "Namly Crescent, District 10, Singapore",
+            "map": "https://www.google.com/maps/place/Namly+Cres,+Singapore/@1.3270884,103.7892461,15.38z/data=!4m5!3m4!1s0x31da1a7582ba53b1:0x9bc79ecdaf35fa95!8m2!3d1.3265109!4d103.7954755?hl=en-US",
+            "image": ""
+        },
+        {
+            "id": 2,
+            "price": "S$12,800,000",
+            "description": "This pair of brand new 3.5sty f'hold Shelford bungalow is all about spaciousness\n with more than 11,000sf. Ideally located in the Bukit Timah landed housing \nenclave. This contemporary modern pair softly assimilate into the landscape amongst other \nneighbouring landed properties. The detail orientated homes were designed to imbue modernism and timelessness.\n
+Quiet indulgence, the architectural language generate spaces that seamlessly integrate modern living and \nentertainment in the 21st century. A great home for multi-tier generation. Near top schools like NYPS, RGPS",
+            "address": "Shelford Road, Singapore",
+            "map": "https://www.google.com/maps/place/Shelford+Rd/@1.3274908,103.8089909,17z/data=!3m1!4b1!4m5!3m4!1s0x31da10a8198eb78f:0xfcf46e68bccb8e62!8m2!3d1.3274854!4d103.811185",
+            "image": ""
+        },
+        {
+            "id": 3,
+            "price": "S$12,800,000",
+            "description": "Newly renovated F'hold 2.5sty bungalow land approx 4700sf built up approx \n5000sf, with 5+1 cosy bedrooms. Tucked in the swanky prime Bukit Timah precinct. Close to an \narray of amenities & good schools like Nanyang Girls', Raffles Girl's Primary, Hwa Chong, \nNYPS. Easy connectivity to major expressways. Short drive to Orchard Road.",
+            "address": "Cassia Drive, Singapore",
+            "map": "https://www.google.com/maps/search/Cassia+Drive,+Singapore/@1.3738836,103.754921,15z",
+            "image": ""
+        },
+    ]
+}
