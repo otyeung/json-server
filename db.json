@@ -26,8 +26,41 @@
             "Company Name": "Capital Investments",
             "Job Title": "C&ORC Legal and Compliance Officer",
             "Employment Status": "Employed",
-            "Years of Employement": "7",
+            "Years of Employment": "7",
             "Monthly Income (SGD)": "8000"
+        }
+    ],
+    "property": [
+        {
+            "id": 0,
+            "price": "S$32,000,000",
+            "description": "Hello",
+            "address": "75 Grange Road",
+            "map": "https://www.google.com/maps/search/?api=1&query=75%20Grange%20Road%20Singapore",
+            "image": ""
+        },
+        {
+            "id": 1,
+            "price": "S$14,600,000",
+            "description": "hello",
+            "address": "Namly Crescent, Singapore",
+            "map": "https://www.google.com/maps/place/Namly+Cres,+Singapore/@1.3270884,103.7892461,15.38z/data=!4m5!3m4!1s0x31da1a7582ba53b1:0x9bc79ecdaf35fa95!8m2!3d1.3265109!4d103.7954755?hl=en-US",
+            "image": ""
+        },
+        {
+            "id": 2,
+            "price": "S$12,800,000",
+            "description": "hello",
+            "address": "Shelford Road, Singapore",
+            "map": "https://www.google.com/maps/place/Shelford+Rd/@1.3274908,103.8089909,17z/data=!3m1!4b1!4m5!3m4!1s0x31da10a8198eb78f:0xfcf46e68bccb8e62!8m2!3d1.3274854!4d103.811185",
+            "image": ""
+        },
+        {
+            "id": 3,
+            "price": "S$12,800,000",
+            "description": "hello",
+            "map": "https://www.google.com/maps/search/Cassia+Drive,+Singapore/@1.3738836,103.754921,15z",
+            "image": ""
         }
     ]
 }
