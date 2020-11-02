@@ -33,32 +33,33 @@
     "property": [
         {
             "id": 0,
-            "price": "S$32,000,000",
-            "description": "Handsome light-filled colonial with a beautiful front porch! Close to Chevy Pavillion, the park, the Metro and easy access to downtown.",
-            "address": "75 Grange Road",
+            "price": "S$32,000,000 - 75 Grange Road, Singapore",
+            "description": "Handsome light-filled colonial with a beautiful front porch!",
+            "address": "75 Grange Road, Singapore",
             "map": "https://www.google.com/maps/search/?api=1&query=75%20Grange%20Road%20Singapore",
             "image": "https://iconverse-sandbox.taiger.io/converse/iconverse-bot-server/bot-resources/assets/0406765a-22c9-4740-a127-e7359b907743/20201030095656_property_0.jpg"
         },
         {
             "id": 1,
-            "price": "S$14,600,000",
-            "description": "Amazing, grand historic semi-detached row home in the head of Singapore full of modern touches. Walk or bike to the Old Town Waterfront where you can enjoy restaurants and shopping.",
+            "price": "S$14,600,000 - Namly Crescent, Singapore",
+            "description": "Amazing, grand historic semi-detached home in the heart of downtown",
             "address": "Namly Crescent, Singapore",
             "map": "https://www.google.com/maps/place/Namly+Cres,+Singapore/@1.3270884,103.7892461,15.38z/data=!4m5!3m4!1s0x31da1a7582ba53b1:0x9bc79ecdaf35fa95!8m2!3d1.3265109!4d103.7954755?hl=en-US",
             "image": "https://iconverse-sandbox.taiger.io/iconverse-bot-server/bot-resources/assets/0406765a-22c9-4740-a127-e7359b907743/20200925052003_house1.jpg"
         },
         {
             "id": 2,
-            "price": "S$12,800,000",
-            "description": "Gorgeous house in centre of Singapore with 15+ arces. Gorgeous lot has a pond and mixture of cleared land and wooded. Home has been updated and renovated.",
+            "price": "S$12,800,000 - Shelford Road, Singapore",
+            "description": "Gorgeous house in centre of Singapore. Home has been updated and renovated.",
             "address": "Shelford Road, Singapore",
             "map": "https://www.google.com/maps/place/Shelford+Rd/@1.3274908,103.8089909,17z/data=!3m1!4b1!4m5!3m4!1s0x31da10a8198eb78f:0xfcf46e68bccb8e62!8m2!3d1.3274854!4d103.811185",
             "image": "https://iconverse-sandbox.taiger.io/converse/iconverse-bot-server/bot-resources/assets/0406765a-22c9-4740-a127-e7359b907743/20201030095756_property_2.jpg"
         },
         {
             "id": 3,
-            "price": "S$12,800,000",
-            "description": "Centrally located. This warm hospitality could be used as a wedding venue or as a well appointed equestrian property.",
+            "price": "S$12,800,000 - Cassia Drive, Singapore",
+            "description": "Centrally located. This warm hospitality could be used as a wedding venue.",
+            "address": "Cassia Drive, Singapore",
             "map": "https://www.google.com/maps/search/Cassia+Drive,+Singapore/@1.3738836,103.754921,15z",
             "image": "https://iconverse-sandbox.taiger.io/converse/iconverse-bot-server/bot-resources/assets/0406765a-22c9-4740-a127-e7359b907743/20201030095812_property_3.jpg"
         }
